@@ -2,7 +2,7 @@
 
 > A clone of the popular streaming platform Netflix built using modern web technologies.
 
-![Netflix Clone Screenshot](path-to-screenshot-or-gif) *(Replace with your actual screenshot)*
+![Netflix Clone Screenshot](./public/Netflix.png) *(Replace with your actual screenshot)*
 
 ## 📝 Description
 
@@ -32,7 +32,7 @@ This project is a front-end clone of [Netflix](https://netflix.com), recreating 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/teddy-crtl/netflix-clone.git
+git clone https://github.com/teddy-crtl/netflix_clone.git
 ```
 
 2. Navigate into the directory
