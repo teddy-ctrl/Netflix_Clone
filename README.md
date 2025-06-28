@@ -1,9 +1,3 @@
-That's awesome! Cloning Netflix is a great project to practice full-stack development, UI/UX design, and working with APIs. Adding a **README.md** file is an excellent way to document your project and make it more accessible to others (like collaborators or potential employers).
-
-Here’s a sample README template you can use for your Netflix clone:
-
----
-
 # 🎬 Netflix Clone
 
 > A clone of the popular streaming platform Netflix built using modern web technologies.
